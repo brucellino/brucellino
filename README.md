@@ -5,19 +5,19 @@ I've built some things, but like Swamp Castle a lot of them fell down.
 
 **I am**:
 
-- 👨‍🔬 Scientist
+- 👨‍🔬 Scientist [orcid.org/0000-0002-6607-7145](https://orcid.org/0000-0002-6607-7145)
 - 🏐 ⚛️ ex volleyball freak and physicist
-- 🏗️ infrastructure guy.
+- 🏗️ infrastructure guy
 - 🌋 🏝 islander
 - 🇿🇦 🇮🇹 Southerner
 
-**🤩 My jam is**: building platforms to deliver value from developers to users.
+**My jam is** 🤩: building platforms to deliver value from developers to users.
 
-**😍I care about**: Quality. Empathy at work. The big picture.
+**I care about** 😍: Quality. Empathy at work. The big picture.
 
-**🧰 My toolkit**:
+**My toolkit** 🧰:
 
-- Hashicorp
+- Hashicorp (Terraform, Packer, Vault, Consul, Nomad), Rundeck
 - Jenkins, Gitlab, GitHub, Spinnaker
 - AWS, VMware
 - Python, Go, Ruby
