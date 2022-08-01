@@ -5,9 +5,9 @@ I've built some things, but like Swamp Castle a lot of them fell down.
 
 **I am**:
 
-- 👨‍🔬 Scientist [orcid.org/0000-0002-6607-7145](https://orcid.org/0000-0002-6607-7145)
+- 👨‍🔬 ⚗ Scientist [orcid.org/0000-0002-6607-7145](https://orcid.org/0000-0002-6607-7145)
 - 🏐 ⚛️ ex volleyball freak and physicist
-- 🏗️ infrastructure guy
+- 🏗️ 🌉 infrastructure guy
 - 🌋 🏝 islander
 - 🇿🇦 🇮🇹 Southerner
 
